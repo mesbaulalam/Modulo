@@ -1,0 +1,31 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Modulo</string>
+    <string name="card1">Replace Card 1</string>
+    <string name="card2">Replace Card 2</string>
+    <string name="card3">Replace Card 3</string>
+    <string name="bet">Bet: $</string>
+    <string name="start">Start</string>
+    <string name="money">Please place your bet! Amount of money you have: $100</string>
+    <string name="resultButton">Result</string>
+    <string name="howToPlay">How to play?</string>
+    <string name="instructions">Rules to determine who has better cards:\n\n
+J, Q, K are regarded as special cards.\n\n
+Rule 1: The one with more special cards wins.\n\n
+Rule 2: If both have the same number of special cards, add the face values of the other card(s) and take the remainder after dividing the sum by 10. The one with a bigger remainder wins (Note: Ace = 1).\n\n
+Rule 3: The dealer wins if both rule 1 and rule 2 cannot distinguish the winner.</string>
+    <string name="error">Error!</string>
+    <string name="error_bet">Please enter your bet!</string>
+    <string name = "error_integer">WARNING: The bet you place must be a positive integer</string>
+    <string name="error_positive">WARNING: The bet you place must be a positive integer</string>
+    <string name="error_money">WARNING: You do not have enough money. Please readjust your bet!</string>
+    <string name="bet_result">Your current bet is: $<xliff:g id="current_bet" example="100">%d</xliff:g>
+        Amount of money you have: $<xliff:g id="money_left" example="100">%d</xliff:g></string>
+    <string name="error_string">Please enter a valid number, no strings or characters allowed</string>
+    <string name="result">Result!</string>
+    <string name="win">Congratulations! You win this round!</string>
+    <string name="lose">Sorry! The Dealer wins this round</string>
+    <string name="end">You have no more money! Please start a new game!</string>
+    <string name="over">Game Over!</string>
+    <string name="ok">Ok</string>
+    <string name="help">Please press the menu button for instructions!</string>
+</resources>
