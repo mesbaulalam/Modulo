@@ -8,7 +8,7 @@ Pre-requisites
 --------------
 
 - Android SDK v29
-- Android Build Tools v29.0.2
+- Android Build Tools v29.0.3
 
 
 ## Implementation: 
