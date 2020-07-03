@@ -4,6 +4,13 @@
 Designed using Java and XML on Android Studio, 
 using concepts of Object Oriented Programming where users can bet money and win each round by either having “special” cards or a higher remainder when dividing the sum of their cards by 10.
 
+Pre-requisites
+--------------
+
+- Android SDK v29
+- Android Build Tools v29.0.2
+
+
 ## Implementation: 
     Rules to determine who has better cards:
         - J, Q, K are regarded as special cards.
